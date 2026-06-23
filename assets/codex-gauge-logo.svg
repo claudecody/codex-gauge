@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Gauge</title>
+  <desc id="desc">A compact gauge mark for a Codex usage menu-bar meter.</desc>
+  <rect width="512" height="512" rx="96" fill="#0f172a"/>
+  <path d="M96 316c0-88.4 71.6-160 160-160s160 71.6 160 160" fill="none" stroke="#38bdf8" stroke-width="34" stroke-linecap="round"/>
+  <path d="M139 316c0-64.6 52.4-117 117-117 29.7 0 56.8 11.1 77.4 29.4" fill="none" stroke="#34d399" stroke-width="34" stroke-linecap="round"/>
+  <path d="M256 316l101-79" fill="none" stroke="#f8fafc" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="256" cy="316" r="24" fill="#f8fafc"/>
+  <path d="M158 372h196" stroke="#64748b" stroke-width="24" stroke-linecap="round"/>
+</svg>
